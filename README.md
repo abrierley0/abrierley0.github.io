@@ -1,6 +1,6 @@
 # My First Website: abrierley0.github.io
 This *repository* is for storing the files for my first website.
-I am also using this oppurtunity to quickly learn markdown.
+I am also using this oppurtunity to quickly learn markdown;
 
 I am a ~~pigeon~~ **_human_**!!
 
