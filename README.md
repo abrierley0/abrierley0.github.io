@@ -1,20 +1,20 @@
 # My First Website: abrierley0.github.io
 This repository is for storing the files for my first website.
 I have a number of ideas of what to include and how to grow this website:
-*Introductory page
+* Introductory page
 
-*About Me page (including progress with coding)
+* About Me page (including progress with coding)
 
-*Photos (film camera)
+* Photos (film camera)
 
-*Blog
+* Blog
 
-*Piano practice log and notes
+* Piano practice log and notes
 
-*Writing
+* Writing
 
-*Links 
+* Links 
 
-*Art - analysis, my own art, ASCII
+* Art - analysis, my own art, ASCII
 
-*Essays
+* Essays
