@@ -14,6 +14,11 @@ I have a number of **ideas** of what to include and how to grow this website:
 * Piano practice log and notes
 * Essays 
 * Ideas
+* Booklist
+* Music analysis
+* Lyrics \+ analysis
+* Playlists
+* Quotes
 * Links
 
 I had a thought whilst standing waiting for coffee to boil in the kitchen in the new metal hob thingy I'm trying to use (*Instantaneous Revision: "coffee percolator"* - thanks Google old pal.) What's my obsession with creating this website? Many of the things I would like to do with it can be achieved with a *common or garden* notebook. I answered myself with this - theoretically anybody with access to a computer (including smartphones) across the planet can access this information and this website. I'm essentially **_publishing_** my thoughts, creations, ideas and dreams. Isn't that irresistible to a human being? to reach out to other people? The answer is yes, and think about your use of Instagram and Snapchat stories. This website offers a more personalised experience, with more storage for information - be that images, videos, music, writing, photos, art - whilst learning a new skill and opening doors to other skills. The infinite possibilities of this website is exciting, and I imagine had everyone else the impetus to learn how they probably would create their own too.
@@ -28,4 +33,3 @@ I have realised I am very interested in expanding the 'rules' of writing. This i
 
 Too much coffee really does ruin the spider web; increases typing errors and inhibits concentration.
 
-"Life is very short and what we have to do must be done in the now." - Audre Lorde
