@@ -27,3 +27,5 @@ There is also, however, something terrifying about this information being able t
 I have realised I am very interested in expanding the 'rules' of writing. This is surely essential for creativity to flourish, things must be able to change and grow and adapt.
 
 Too much coffee really does ruin the spider web; increases typing errors and inhibits concentration.
+
+"Life is very short and what we have to do must be done in the now." - Audre Lorde
