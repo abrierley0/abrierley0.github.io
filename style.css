@@ -121,8 +121,10 @@ footer {
     display: block;
 }
 
-.copyright {
-    margin: 0px 0px 0px 900px;
-    padding: 5px;
-    box-sizing: border-box;
+
+
+.pigeon {
+    padding: 60px 0px 0px 0px;
 }
+
+
