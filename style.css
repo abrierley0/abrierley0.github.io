@@ -2,7 +2,7 @@
     background-image: url('photos/forest1.jpg');
     display: flex;
     background-size: cover;
-    height: 400px;
+    height: 80%;
     background-position: 50%;
 
 }
@@ -11,7 +11,7 @@
     background-image: url('photos/piano5.jpg');
     display: flex;
     background-size: cover;
-    height: 400px;
+    height: 100%;
     background-position: bottom ;
 
 }
@@ -42,7 +42,7 @@ a {
 
 .col-6 h1 {
     position: absolute;
-    padding: 30px 20px 20px 80px;}
+    padding: 2rem 2rem 2rem 2rem;}
 
 .row {
     height: 100px;
@@ -52,7 +52,7 @@ a {
 
 .jumbotron h1 {
     font-weight: bold;
-    font-size: 2cm;
+    font-size: 5rem;
     color:white;
     font-family: 'Times New Roman', Times, serif;
     
@@ -65,7 +65,7 @@ a {
 }
 
 .jumbotron .row {
-    height: 40px;
+    height: 10rem;
     padding: 100px 0px 0px 40px;
 }
 
@@ -84,7 +84,7 @@ ul {
 
 .jumbotron2 h1 {
     font-weight: bold;
-    font-size: 2cm;
+    font-size: 5rem;
     color:white;
     font-family: 'Times New Roman', Times, serif;
     
